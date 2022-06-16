@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whitlistingMintingApp/static/css/main.27c66042.chunk.css",
+    "main.js": "/whitlistingMintingApp/static/js/main.b81a32f2.chunk.js",
+    "main.js.map": "/whitlistingMintingApp/static/js/main.b81a32f2.chunk.js.map",
+    "runtime-main.js": "/whitlistingMintingApp/static/js/runtime-main.dd377552.js",
+    "runtime-main.js.map": "/whitlistingMintingApp/static/js/runtime-main.dd377552.js.map",
+    "static/js/2.00f4f76c.chunk.js": "/whitlistingMintingApp/static/js/2.00f4f76c.chunk.js",
+    "static/js/2.00f4f76c.chunk.js.map": "/whitlistingMintingApp/static/js/2.00f4f76c.chunk.js.map",
+    "static/js/3.6b0ca241.chunk.js": "/whitlistingMintingApp/static/js/3.6b0ca241.chunk.js",
+    "static/js/3.6b0ca241.chunk.js.map": "/whitlistingMintingApp/static/js/3.6b0ca241.chunk.js.map",
+    "index.html": "/whitlistingMintingApp/index.html",
+    "static/css/main.27c66042.chunk.css.map": "/whitlistingMintingApp/static/css/main.27c66042.chunk.css.map",
+    "static/js/2.00f4f76c.chunk.js.LICENSE.txt": "/whitlistingMintingApp/static/js/2.00f4f76c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd377552.js",
+    "static/js/2.00f4f76c.chunk.js",
+    "static/css/main.27c66042.chunk.css",
+    "static/js/main.b81a32f2.chunk.js"
+  ]
+}
